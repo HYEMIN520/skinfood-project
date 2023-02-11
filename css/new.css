@@ -1,0 +1,39 @@
+
+
+.new_item{
+
+}
+
+.new_item .inner_container{
+    display: flex;
+}
+
+.new_info{
+    margin-left: 20px;
+    margin-top: 30px;
+    line-height: 22px;
+}
+.new_left a img{
+    width: 60vw;
+}
+
+.new_product{
+    
+}
+
+.new_product_box{
+    display: flex;
+}
+
+.new_product_box{
+    border-bottom: 1px solid rgb(236, 216, 158);
+    width: 40vw;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.new_product_img a img{
+    width: 170px;
+    height: 170px;
+}

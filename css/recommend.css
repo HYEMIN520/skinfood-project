@@ -1,0 +1,29 @@
+.recommend_item{
+    margin-top: 50px;
+}
+
+.recommend_container{
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+}
+
+.recommend_card{
+    background-color: rgba(245, 245, 245, 0.674);
+    width: 230px;
+    height: 350px;
+    border-radius: 15px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.recommend_card img{
+    width: 80px;
+}
+
+.recommend_card + .recommend_card{
+    margin-left: 30px;
+}
